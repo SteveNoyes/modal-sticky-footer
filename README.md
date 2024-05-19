@@ -76,6 +76,12 @@ Here's why:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
+My favorite chat gpt contribution: 
+  Here was my question:
+  Please write 8 more buttons but make button titles business talk gibberish and make the 8 corresponding filler text 100 words of business gibberish as well. When I say business gibberish I mean like a business lorem ipsum.
+
+The footer buttons are using the text provided from this prompt. I wanted lorem ipsum but I wanted the end user to know each button was showing different text.
+
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
